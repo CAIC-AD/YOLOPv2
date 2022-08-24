@@ -20,11 +20,16 @@ We present an excellent multi-task network based on YOLOP,which is called **YOLO
 The advantages of **YOLOPv2** can be summaried as below:
 * **Better**: we proposed the end-to-end perception network which possess better feature extraction backbone, better bag-of-freebies were developed for dealing with the training process.
 * **Faster**: we employed more efficient ELAN structures to achieve reasonable memory allocation for our  model. 
-* **Stronger**: the proposed model possess more stable and reasonable structure has powerful robustness for adapting to various scenarios.
+* **Stronger**: the proposed model has stable network design and has powerful robustness for adapting to various scenarios .
 ## Results
 We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V100**.
 
 ### Visualization
+model : trained on the BDD100k dataset
+<td><img src=images/together_video.gif/></td>
+  
+  
+
 
 
 #### Model parameter and inference speed
@@ -36,6 +41,11 @@ We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V1
 
 
 #### Traffic Object Detection Result
+<table>
+<tr><th>Result </th><th>Visualization</th></tr>
+<tr><td>
+  
+
 |        Model       |     mAP@0.5 (%)   |Recall (%)  |
 |:------------------:|:------------:|:---------------:|
 |     `MultiNet`     |        60.2      |   81.3     |  
@@ -46,7 +56,17 @@ We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V1
 |     `HybridNets`   |          77.3      | **92.8**   | 
 |    **`YOLOPv2`**   |       **83.4(+6.1)**    |   91.1(-1.7)     |
 
+</td><td>
+
+<!-- ### Visualization -->
+<img src="images/veh3.jpg" width="50%" /><img src="images/veh2.jpg" width="50%" />
+
+</td></tr> </table>
+
 ### Drivable Area Segmentation
+<table>
+<tr><th>Result </th><th>Visualization</th></tr>
+<tr><td>
 
 |       Model      | Drivable mIoU (%) |
 |:----------------:|:-----------------:|
@@ -57,7 +77,17 @@ We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V1
 |     `HybridNets` |        90.5       |
 |     `YOLOPv2`    |   **93.2(+1.7)**  |
 
+</td><td>
+
+<!-- ### Visualization -->
+<img src="images/fs3.jpg" width="50%" /><img src="images/fs2.jpg" width="50%" />
+
+</td></tr> </table>
+
 ### Lane Line Detection
+<table>
+<tr><th>Result </th><th>Visualization</th></tr>
+<tr><td>
 
 |      Model       | Accuracy (%) | Lane Line IoU (%) |
 |:----------------:|:------------:|:-----------------:|
@@ -67,7 +97,13 @@ We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V1
 |      `YOLOP`     |     70.5     |        26.2       |
 |   `HybridNets`   |     85.4     |        **31.6**     |
 |    **`YOLOPv2`** |   **87.3(+1.9)**   |      27.2(-4.4)  |
+  
+</td><td>
 
+<!-- ### Visualization -->
+<img src="images/lane3.jpg" width="50%" /><img src="images/lane2.jpg" width="50%" />
+
+</td></tr> </table>
 
 
 
