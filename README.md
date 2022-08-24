@@ -4,8 +4,8 @@
 <!-- <--!span><font size="5", > Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer
 </font></span> -->
 
-  Cheng Han*, Qichao Zhao, Shuyi Zhang,   <a href="https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN">Jinwei Yuan</a>, Zhenlin Zhang
-
+  Cheng Han*, Qichao Zhao, Shuyi Zhang,  Jinwei Yuan, Zhenlin Zhang
+<!-- <a href="https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN">Jinwei Yuan</a> -->
 <div><a href="https://arxiv.org/pdf/2206.04584.pdf">[arXiv Preprint]</a></div> 
 
 </div>
