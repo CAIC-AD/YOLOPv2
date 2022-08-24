@@ -25,7 +25,7 @@ The advantages of **YOLOPv2** can be summaried as below:
 We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V100**.
 
 ### Visualization
-model : trained on the BDD100k dataset and test on T3CAIC  Camera.
+model : trained on the BDD100k dataset and test on T3CAIC camera.
 <td><img src=images/together_video.gif/></td>
   
   
@@ -59,8 +59,8 @@ model : trained on the BDD100k dataset and test on T3CAIC  Camera.
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/veh3.jpg" width="80%" align='center'/>
-<!--   <img src="images/veh2.jpg" width="50%" /> -->
+<img src="images/veh3.jpg" width="50%" align='right'/>
+  <img src="images/veh2.jpg" width="50%" />
 
 </td></tr> </table>
 
@@ -70,20 +70,20 @@ model : trained on the BDD100k dataset and test on T3CAIC  Camera.
 <tr><th>Result </th><th>Visualization</th></tr>
 <tr><td>
 
-|       Model      | Drivable mIoU (%) |
-|:----------------:|:-----------------:|
-|    `MultiNet`    |        71.6       |
-|     `DLT-Net`    |        71.3       |
-|     `PSPNet`     |        89.6       |
-|      `YOLOP`     |        91.5       |
-|     `HybridNets` |        90.5       |
-|     `YOLOPv2`    |   **93.2(+1.7)** :arrow_up:  |
+|       Model      | Drivable mIoU (%) |——:relaxed:——|
+|:----------------:|:-----------------:|---:|
+|    `MultiNet`    |        71.6       |  |   
+|     `DLT-Net`    |        71.3       || 
+|     `PSPNet`     |        89.6       || 
+|      `YOLOP`     |        91.5       || 
+|     `HybridNets` |        90.5       || 
+|     `YOLOPv2`    |   **93.2(+1.7)** :arrow_up:  |  | 
 
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/fs3.jpg" width="70%" align='right'/>
-<!--   <img src="images/fs2.jpg" width="50%" /> -->
+<img src="images/fs3.jpg" width="50%" align='right'/>
+  <img src="images/fs2.jpg" width="50%" />
 
 </td></tr> </table>
 
@@ -104,8 +104,8 @@ model : trained on the BDD100k dataset and test on T3CAIC  Camera.
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/lane3.jpg" width="80%" align='right' />
-<!--   <img src="images/lane1.jpg" width="50%" /> -->
+<img src="images/lane3.jpg" width="50%" align='right' />
+  <img src="images/lane1.jpg" width="50%" />
 
 </td></tr> </table>
 
