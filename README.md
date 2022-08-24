@@ -4,7 +4,7 @@
 <!-- <--!span><font size="5", > Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer
 </font></span> -->
 
-  Cheng Han*, Qichao Zhao, Shuyi Zhang,  Jinwei Yuan, Zhenlin Zhang
+  Cheng Han, Qichao Zhao, Shuyi Zhang, Yinzi Chen, Zhenlin Zhang, Jinwei Yuan
 <!-- <a href="https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN">Jinwei Yuan</a> -->
 <div><a href="https://arxiv.org/pdf/2206.04584.pdf">[arXiv Preprint]</a></div> 
 
@@ -25,7 +25,7 @@ The advantages of **YOLOPv2** can be summaried as below:
 We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V100**.
 
 ### Visualization
-model : trained on the BDD100k dataset
+model : trained on the BDD100k dataset and test on T3CAIC  Camera.
 <td><img src=images/together_video.gif/></td>
   
   
@@ -59,12 +59,14 @@ model : trained on the BDD100k dataset
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/veh3.jpg" width="50%" /><img src="images/veh2.jpg" width="50%" />
+<img src="images/veh3.jpg" width="80%" align='center'/>
+<!--   <img src="images/veh2.jpg" width="50%" /> -->
 
 </td></tr> </table>
 
 ### Drivable Area Segmentation
 <table>
+
 <tr><th>Result </th><th>Visualization</th></tr>
 <tr><td>
 
@@ -80,7 +82,8 @@ model : trained on the BDD100k dataset
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/fs3.jpg" width="50%" /><img src="images/fs2.jpg" width="50%" />
+<img src="images/fs3.jpg" width="70%" align='right'/>
+<!--   <img src="images/fs2.jpg" width="50%" /> -->
 
 </td></tr> </table>
 
@@ -101,7 +104,8 @@ model : trained on the BDD100k dataset
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/lane3.jpg" width="50%" /><img src="images/lane1.jpg" width="50%" />
+<img src="images/lane3.jpg" width="80%" align='right' />
+<!--   <img src="images/lane1.jpg" width="50%" /> -->
 
 </td></tr> </table>
 
