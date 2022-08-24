@@ -24,6 +24,9 @@ The advantages of **YOLOPv2** can be summaried as below:
 ## Results
 We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V100**.
 
+### Visualization
+
+
 #### Model parameter and inference speed
 |        Model       |    Size     |   Params   |  Speed (fps) |
 |:------------------:|:-----------:|:----------:|:-----------:|
@@ -64,10 +67,6 @@ We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V1
 |      `YOLOP`     |     70.5     |        26.2       |
 |   `HybridNets`   |     85.4     |        **31.6**     |
 |    **`YOLOPv2`** |   **87.3(+1.9)**   |      27.2(-4.4)  |
-
-## Visualization
-
-
 
 
 
