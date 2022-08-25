@@ -59,8 +59,8 @@ model : trained on the BDD100k dataset and test on T3CAIC camera.
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/veh3.jpg" width="50%" align='right'/>
-  <img src="images/veh2.jpg" width="50%" />
+<img src="images/veh3.jpg" width="100%" align='right'/>
+<!--   <img src="images/veh2.jpg" width="50%" /> -->
 
 </td></tr> </table>
 
@@ -82,8 +82,8 @@ model : trained on the BDD100k dataset and test on T3CAIC camera.
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/fs3.jpg" width="50%" align='right'/>
-  <img src="images/fs2.jpg" width="50%" />
+<img src="images/fs3.jpg" width="100%" align='right'/>
+<!--   <img src="images/fs2.jpg" width="50%" /> -->
 
 </td></tr> </table>
 
@@ -104,8 +104,8 @@ model : trained on the BDD100k dataset and test on T3CAIC camera.
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/lane3.jpg" width="50%" align='right' />
-  <img src="images/lane1.jpg" width="50%" />
+<img src="images/lane3.jpg" width="100%" align='right' />
+<!--   <img src="images/lane1.jpg" width="50%" /> -->
 
 </td></tr> </table>
 
