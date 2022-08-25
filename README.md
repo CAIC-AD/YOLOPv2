@@ -131,7 +131,7 @@ coming soon. -->
 
 ## License
 
-GKT is released under the [MIT Licence](LICENSE).
+YOLOPv2 is released under the [MIT Licence](LICENSE).
 
 <!-- ## Citation
 If you find YOLOPv2 is useful in your research or applications, please consider giving us a star &#127775; and citing it by the following BibTeX entry.
