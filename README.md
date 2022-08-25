@@ -21,6 +21,11 @@ The advantages of **YOLOPv2** can be summaried as below:
 * **Better**:clap:: we proposed the end-to-end perception network which possess better feature extraction backbone, better bag-of-freebies were developed for dealing with the training process.
 * **Faster**:airplane:: we employed more efficient ELAN structures to achieve reasonable memory allocation for our  model. 
 * **Stronger**:muscle:: the proposed model has stable network design and has powerful robustness for adapting to various scenarios .
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/yolopv2-better-faster-stronger-for-panoptic/traffic-object-detection-on-bdd100k)](https://paperswithcode.com/sota/traffic-object-detection-on-bdd100k?p=yolopv2-better-faster-stronger-for-panoptic)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/yolopv2-better-faster-stronger-for-panoptic/drivable-area-detection-on-bdd100k)](https://paperswithcode.com/sota/drivable-area-detection-on-bdd100k?p=yolopv2-better-faster-stronger-for-panoptic)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/yolopv2-better-faster-stronger-for-panoptic/lane-detection-on-bdd100k)](https://paperswithcode.com/sota/lane-detection-on-bdd100k?p=yolopv2-better-faster-stronger-for-panoptic)
+
 ## Results
 We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V100**.
 
