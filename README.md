@@ -6,7 +6,7 @@
 
   Cheng Han, Qichao Zhao, Shuyi Zhang, Yinzi Chen, Zhenlin Zhang, Jinwei Yuan
 <!-- <a href="https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN">Jinwei Yuan</a> -->
-<div><a href="https://arxiv.org/pdf/2206.04584.pdf">[YOLOPv2 arXiv Preprint]</a></div> 
+<div><a href="https://arxiv.org/abs/2208.11434">[YOLOPv2 arXiv Preprint]</a></div> 
 
 </div>
 
