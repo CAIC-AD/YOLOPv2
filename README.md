@@ -130,8 +130,7 @@ model : trained on the BDD100k dataset and test on T3CAIC camera.
 
 ## Models
 
-You can get the model from <div><a href="https://github.com/CAIC-AD/YOLOPv2/releases/download/V0.0.1/yolopv2.pt">[here]</a></div> 
-</div>.
+You can get the model from <a href="https://github.com/CAIC-AD/YOLOPv2/releases/download/V0.0.1/yolopv2.pt">here</a>.
 
 <!-- ## Usage
 coming soon. -->
