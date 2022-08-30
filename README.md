@@ -32,7 +32,7 @@ We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V1
 
 ### Visualization
 model : trained on the BDD100k dataset and test on T3CAIC camera.
-<td><img src=images/together_video.gif/></td>
+<td><img src=data/demo/together_video.gif/></td>
   
   
 
@@ -65,7 +65,7 @@ model : trained on the BDD100k dataset and test on T3CAIC camera.
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/veh3.jpg" width="100%" align='right'/>
+<img src="data/demo/veh3.jpg" width="100%" align='right'/>
 <!--   <img src="images/veh2.jpg" width="50%" /> -->
 
 </td></tr> </table>
@@ -88,7 +88,7 @@ model : trained on the BDD100k dataset and test on T3CAIC camera.
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/fs3.jpg" width="100%" align='right'/>
+<img src="data/demo/fs3.jpg" width="100%" align='right'/>
 <!--   <img src="images/fs2.jpg" width="50%" /> -->
 
 </td></tr> </table>
@@ -110,7 +110,7 @@ model : trained on the BDD100k dataset and test on T3CAIC camera.
 </td><td>
 
 <!-- ### Visualization -->
-<img src="images/lane3.jpg" width="100%" align='right' />
+<img src="data/demo/lane3.jpg" width="100%" align='right' />
 <!--   <img src="images/lane1.jpg" width="50%" /> -->
 
 </td></tr> </table>
@@ -118,10 +118,10 @@ model : trained on the BDD100k dataset and test on T3CAIC camera.
 ### Day-time and Night-time visualization results
 <div align = 'None'>
   <a href="./">
-  <img src="images/all3.jpg" width="45%" />
-  <img src="images/all2.jpg" width="45%" />
-  <img src="images/night1.jpg" width="45%" />
-  <img src="images/night2.jpg" width="45%" />
+  <img src="data/demo/all3.jpg" width="45%" />
+  <img src="data/demo/all2.jpg" width="45%" />
+  <img src="data/demo/night1.jpg" width="45%" />
+  <img src="data/demo/night2.jpg" width="45%" />
   </a>
 </div>
 
