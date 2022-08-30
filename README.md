@@ -134,6 +134,15 @@ model : trained on the BDD100k dataset and test on T3CAIC camera.
 
 You can get the model from <a href="https://github.com/CAIC-AD/YOLOPv2/releases/download/V0.0.1/yolopv2.pt">here</a>.
 
+
+### Demo Test
+
+We provide two testing method.You can store the image or video.
+
+```shell
+python tools/demo.py  
+```
+
 <!-- ## Usage
 coming soon. -->
 
