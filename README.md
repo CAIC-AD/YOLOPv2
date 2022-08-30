@@ -11,6 +11,7 @@
 </div>
 
 ## News
+* `August 30, 2022`: We've released the inference code and the trained model,just enjoy it !
 
 * `August 24, 2022`: We've released the tech report for **YOLOPv2**. This work is still in progress and code/models are coming soon. Please stay tuned! ☕️
 <!-- * `August 26, 2022`: We've upload the model for **YOLOPv2**. This version support for model training, validation and prediction. -->
@@ -129,7 +130,8 @@ model : trained on the BDD100k dataset and test on T3CAIC camera.
 
 ## Models
 
-coming soon.
+You can get the model from <div><a href="https://github.com/CAIC-AD/YOLOPv2/releases/download/V0.0.1/yolopv2.pt">[here]</a></div> 
+</div>.
 
 <!-- ## Usage
 coming soon. -->
