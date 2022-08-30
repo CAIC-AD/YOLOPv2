@@ -13,6 +13,7 @@ from utils.utils import \
     LoadImages
 
 
+
 def make_parser():
     parser = argparse.ArgumentParser()
     parser.add_argument('--weights', nargs='+', type=str, default='data/weights/yolopv2.pt', help='model.pt path(s)')
