@@ -136,8 +136,9 @@ def detect():
                             vid_writer.release()  # release previous video writer
                         if vid_cap:  # video
                             fps = vid_cap.get(cv2.CAP_PROP_FPS)
-                            w = int(vid_cap.get(cv2.CAP_PROP_FRAME_WIDTH))
-                            h = int(vid_cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+                            #w = int(vid_cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+                            #h = int(vid_cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+                            w,h = im0.shape[1], im0.shape[0]
                         else:  # stream
                             fps, w, h = 30, im0.shape[1], im0.shape[0]
                             save_path += '.mp4'
