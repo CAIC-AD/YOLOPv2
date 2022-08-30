@@ -31,6 +31,8 @@ The advantages of **YOLOPv2** can be summaried as below:
 ## Results
 We used the BDD100K as our datasets,and experiments are run on **NVIDIA TESLA V100**.
 
+
+
 ### Visualization
 model : trained on the BDD100k dataset and test on T3CAIC camera.
 <td><img src=data/demo/together_video.gif/></td>
