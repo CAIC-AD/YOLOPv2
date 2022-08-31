@@ -11,7 +11,7 @@
 </div>
 
 ## News
-* `August 30, 2022`: We've released the inference code and the trained  <a href="https://github.com/CAIC-AD/YOLOPv2/releases/download/V0.0.1/yolopv2.pt">model</a>, just enjoy it !
+* `August 30, 2022`: We've released the inference code, the trained  <a href="https://github.com/CAIC-AD/YOLOPv2/releases/download/V0.0.1/yolopv2.pt">model</a> and pub lished web demo [Huggingface Spaces 🤗](https://huggingface.co/spaces/hank1996/yolopv2) just enjoy it !
 
 * `August 24, 2022`: We've released the tech report for **YOLOPv2**. This work is still in progress and code/models are coming soon. Please stay tuned! ☕️
 <!-- * `August 26, 2022`: We've upload the model for **YOLOPv2**. This version support for model training, validation and prediction. -->
