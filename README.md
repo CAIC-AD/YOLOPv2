@@ -140,7 +140,7 @@ You can get the model from <a href="https://github.com/CAIC-AD/YOLOPv2/releases/
 We provide two testing method.You can store the image or video.
 
 ```shell
-python tools/demo.py  
+python demo.py  --source data/example.jpg
 ```
 
 <!-- ## Usage
