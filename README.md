@@ -150,6 +150,11 @@ python demo.py  --source data/example.jpg
 coming soon. -->
 
 
+### Third Parties Resource  
+
+* YOLOPv2 NCNN C++ Demo: [YOLOPv2-ncnn](https://github.com/FeiGeChuanShu/YOLOPv2-ncnn) from [FeiGeChuanShu](https://github.com/FeiGeChuanShu/)
+
+
 ## License
 
 YOLOPv2 is released under the [MIT Licence](LICENSE).
